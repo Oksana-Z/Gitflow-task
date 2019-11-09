@@ -2,5 +2,5 @@
 Practice in working with gitflow.
 Create a copy of Example Domain page
 
- #Author
+# Author
 Oksana Zahakailo
